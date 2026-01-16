@@ -1,7 +1,7 @@
 # Welcome to my first Webpage :)
 
 <h2>Description</h2>
-In this project I had to design my first Webpage.
+In this project I had to design my first Webpage about my work as a photographer from Munich.
 <br />
 
 
@@ -18,8 +18,8 @@ In this project I had to design my first Webpage.
 <h2>Website Screenshots:</h2>
 
 <p align="center">
-<h4>Homepage</h4>
-<img src="" height="80%" width="80%" alt="homepage1"/>
+<img src="https://github.com/nadinemueller20/my-first-webpage/blob/main/Screenshots/Webpage1.png" height="80%" width="80%" alt="Webpage1"/>
+<img src="https://github.com/nadinemueller20/my-first-webpage/blob/main/Screenshots/Webpage2.png" height="80%" width="80%" alt="Webpage1"/>
 
 
 
